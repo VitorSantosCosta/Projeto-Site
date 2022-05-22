@@ -14,10 +14,15 @@ main {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.425);
 }
 h1 {
-    font-size: 2en;
+    font-size: 2em;
     color: rgb(10, 10, 116);
 }
 h2 {
-    font-size: 1.5en;
+    font-size: 1.5em;
+    color: rgb(10, 10, 116);
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
     color: rgb(10, 10, 116);
 }
