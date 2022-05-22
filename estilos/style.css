@@ -13,3 +13,11 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.425);
 }
+h1 {
+    font-size: 2en;
+    color: rgb(10, 10, 116);
+}
+h2 {
+    font-size: 1.5en;
+    color: rgb(10, 10, 116);
+}
